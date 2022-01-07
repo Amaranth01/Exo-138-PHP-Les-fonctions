@@ -67,7 +67,3 @@ return $var;
 }
 
 $x = maFonction(); // $x vaudra 5
-
-
-
-
